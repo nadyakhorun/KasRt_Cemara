@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30466460872",
+    "project_id": "kasrt-117db",
+    "storage_bucket": "kasrt-117db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30466460872:android:ac1251f5d979084b8ce9fd",
+        "android_client_info": {
+          "package_name": "id.co.kas_rt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_es1jvLYstCuG3TO1SuZliNXNb05z4Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
